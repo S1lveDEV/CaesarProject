@@ -1,4 +1,4 @@
-[! STILL WORKING IN PROGRESS !]
+[Caesar Project]
 -------------------------------
 
 A simple Caesar Encoder and Decoder
