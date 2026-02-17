@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CaesarProject.vcxproj" Id="6672b83b-f72e-4516-a674-d89c153dcc97" />
+</Solution>
